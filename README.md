@@ -7,13 +7,13 @@ NB: This only works on an actual iPhone as a simulator would not be able to use 
 <table>
  <tr>
   <td>
-   <img align="center" alt="IMG" src="https://raw.githubusercontent.com/BashirYesufu/What-Flower/main/image 1.jpg" width="400" height="320" />
+   <img align="center" alt="IMG" src="https://raw.githubusercontent.com/BashirYesufu/What-Flower/main/image 1.jpg" width="400" height="600" />
   </td>
   <td>
-    <img align="center" alt="IMG" src="https://raw.githubusercontent.com/BashirYesufu/What-Flower/main/image 2.jpg" width="400" height="320" />
+    <img align="center" alt="IMG" src="https://raw.githubusercontent.com/BashirYesufu/What-Flower/main/image 2.jpg" width="400" height="600" />
   </td>
    <td>
-    <img align="right" alt="IMG" src="https://raw.githubusercontent.com/BashirYesufu/What-Flower/main/image 3.jpg" width="400" height="320" />
+    <img align="right" alt="IMG" src="https://raw.githubusercontent.com/BashirYesufu/What-Flower/main/image 3.jpg" width="400" height="600" />
   </td>
  </tr>
 </table>
